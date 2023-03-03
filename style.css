@@ -43,7 +43,7 @@ body {
 
 .hihat-top-cymbal {
 	position: absolute;
-    top: 166px;
+    top: 156px;
     right: 71px;
     transform: scale(1.35);
     z-index: 0;
@@ -117,7 +117,7 @@ body {
 }
 
 .playing {
-	transform: scale(1.12);
+	transform: scale(1.4);
 }
 
 .key-map-wrapper {
